@@ -2,7 +2,7 @@
 
 #### A python script to clone multiple repositories from multiple accounts in one go. 
 
-##Used python packages:
+## Used python packages:
     gitpython
     pandas
     pandasql
